@@ -85,7 +85,7 @@ To use the application from the command line (after installing dependencies):
 - Step 3: Start the server by entering ```npm run start``` in the command line.
 - step 4: Go to the port on your local host in Google Chrome.
 - step 5: Click the "Install" button.
-- step 6: Alternatively, to use the live application, click [here]().
+- step 6: Alternatively, to use the live application, click [here](https://my-text-editor5.herokuapp.com/).
 
 
 ## Screenshots of Application in Use
