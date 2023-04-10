@@ -92,20 +92,19 @@ To use the application from the command line (after installing dependencies):
 
 The following animation demonstrates the application functionality:
 
-![image]()
+![image](https://user-images.githubusercontent.com/114618684/224472060-f27e30c0-3b47-4314-a595-b51b777b2fd8.gif)
 
 The following image shows the application's manifest.json file:
 
-![image]()
+![image](https://user-images.githubusercontent.com/114618684/224472067-e29ddb18-861f-42ac-9d1b-f423b90a7859.png)
 
 The following image shows the application's registered service worker:
 
-![image]()
+![image](https://user-images.githubusercontent.com/114618684/224472081-6ebaaec2-88eb-4304-897f-ba8635de67a3.png)
 
 The following image shows the application's IndexedDB storage:
 
-![image]()
-
+![image](https://user-images.githubusercontent.com/114618684/224472085-ef870ef3-475a-4028-9737-bbdcee866b20.png)
 
 ## Technologies
 * [Node.js](https://nodejs.org/en/)
